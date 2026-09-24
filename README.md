@@ -10,6 +10,14 @@ The platform includes chalet listings, availability and booking flows, customer 
 
 Internal administration screenshots containing customer or operational information are intentionally excluded to protect privacy and business data.
 
+
+## Live Product
+
+The platform is live and publicly accessible:
+
+[Visit Blausee Website](https://blauseeresorts.com)
+
+
 ## My Role
 
 **Project Lead | Product & Requirements Coordination**
