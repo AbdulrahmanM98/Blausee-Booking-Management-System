@@ -56,19 +56,15 @@ This approach allowed requirements and product features to be refined continuous
 ## Product Screenshots
 
 ### Chalet Listing
-
-![Chalet Listing](01ـchaletsـlisting.png)
+![Chalet Listing](01_chalets_listing.png)
 
 ### About Blausee
-
-![About Blausee](02ـaboutـblausee.png)
+![About Blausee](02_about_blausee.png)
 
 ### Booking & Availability
-
-![Booking and Availability](03ـCalendar_andPay.png)
+![Booking and Availability](03_Calender_andPay.png)
 
 ### Administration Portal
-
 ![Administration Portal](04_admin_login.png)
 
 > Internal administration screens containing customer, reservation, or operational data are intentionally not published.
